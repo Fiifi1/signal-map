@@ -1,5 +1,18 @@
 import React from "react";
 
-export default function Contact() {
-  return <div>THIS IS THE CONTACTPAGE</div>;
-}
+const Contact = () => {
+  return (
+    <div
+      style={{
+        fontSize: "2rem",
+        display: "flex",
+        justifyContent: "center",
+        marginTop: "2rem",
+      }}
+    >
+      THIS IS THE Contact
+    </div>
+  );
+};
+
+export default Contact;

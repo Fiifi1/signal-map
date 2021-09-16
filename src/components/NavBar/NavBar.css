@@ -1,113 +1,71 @@
-.NavbarItems {
-  background-color: linear-gradient(
-    90deg,
-    rgb(110, 94, 254) 0%,
-    rgba(73, 63, 252, 1) 100%
-  );
+.navbar {
   height: 80px;
+  width: 100%;
+  background: blue;
+  color: white;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+  padding: 0 2rem;
   font-size: 1.2rem;
 }
 
-.navbar-logo {
-  color: #fff;
-  justify-self: start;
-  margin-left: 20px;
-  cursor: pointer;
-}
-
-.fa-react {
-  margin-left: 0.5rem;
-  font-size: 1.6rem;
-}
-
-.nav-menu {
-  display: grid;
-  grid-template-columns: repeat(5, auto);
-  grid-gap: 10px;
-  list-style: none;
-  width: 70vw;
-  justify-content: end;
-  margin-right: 2rem;
+.nav-logo {
+  text-decoration: none;
+  color: white;
 }
 
 .nav-links {
-  color: #fff;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-gap: 20px;
+  list-style: none;
+}
+
+.nav-link {
   text-decoration: none;
-  padding: 0.5rem 1rem;
+  color: white;
+  transition: 0.3s all;
 }
 
-.nav-links:hover {
-  background-color: #6d76f7;
-  border-radius: 4px;
-  transition: all 0.2s ease-out;
+.nav-link:hover {
+  color: red;
 }
 
-.fa-bars {
-  color: #fff;
-}
-
-.menu-icon {
+.nav-icon {
   display: none;
+  font-size: 2rem;
+  cursor: pointer;
 }
 
-@media screen and (max-width: 960px) {
-  .NavbarItems {
+@media only screen and (max-width: 500px) {
+  .navbar {
     position: relative;
-  }
-  .nav-menu {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 500px;
-    position: absolute;
-    top: 88px;
-    left: -100%;
-    opacity: 1;
-    transition: all 0.5s ease;
-  }
-
-  .nav-menu.active {
-    background: #a5a3dd;
-    left: 8;
-    opacity: 1;
-    transition: all 0.5s ease;
-    z-index: 1;
   }
 
   .nav-links {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
     text-align: center;
-    padding: 2rem;
-    width: 100px;
-    display: table;
+    width: 100%;
+    top: 80px;
+    left: -100%;
+    transition: 0.5s all;
   }
 
-  .nav-links:hover {
-    background-color: #7577fa;
-    border-radius: 0;
+  .nav-links.active {
+    background: blue;
+    left: 0;
   }
 
-  .navbar-logo {
-    position: absolute;
-    top: 8;
-    left: 8;
-    transform: translate(25%, 50%);
+  .nav-item {
+    padding: 10px 0;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
   }
 
-  .menu-icon {
-    display: block;
-    position: absolute;
-    top: 8;
-    right: 8;
-    transform: matrix(-100%, 60%);
-    font-size: 1rem;
-    cursor: pointer;
-  }
-
-  .fa-times {
-    color: #fff;
-    font-size: 2rem;
+  .nav-icon {
+    display: flex;
   }
 }

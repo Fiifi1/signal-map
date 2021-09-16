@@ -1,5 +1,18 @@
 import React from "react";
 
-export default function Home() {
-  return <div>THIS IS THE HOMEPAGE</div>;
-}
+const Home = () => {
+  return (
+    <div
+      style={{
+        fontSize: "2rem",
+        display: "flex",
+        justifyContent: "center",
+        marginTop: "2rem",
+      }}
+    >
+      THIS IS THE HOMEPAGE
+    </div>
+  );
+};
+
+export default Home;

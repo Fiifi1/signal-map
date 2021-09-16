@@ -1,5 +1,18 @@
 import React from "react";
 
-export default function Map() {
-  return <div>THIS IS THE MAPPAGE</div>;
-}
+const Map = () => {
+  return (
+    <div
+      style={{
+        fontSize: "2rem",
+        display: "flex",
+        justifyContent: "center",
+        marginTop: "2rem",
+      }}
+    >
+      THIS IS THE MAPPAGE
+    </div>
+  );
+};
+
+export default Map;

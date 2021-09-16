@@ -1,36 +1,45 @@
-import React, { Component } from "react";
-import { MenuItems } from "./MenuItems";
-import "./NavBar.css";
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import "./Navbar.css";
+import { FiMenu, FiX } from "react-icons/fi";
 
-export default class NavBar extends Component {
-  state = { clicked: false };
-  handleClick = () => {
-    this.setState({ clicked: !this.state.clicked });
+function Navbar() {
+  const [open, setOpen] = useState(false);
+
+  const handleClick = () => {
+    setOpen(!open);
   };
-  render() {
-    return (
-      <nav className="NavBarItems">
-        <h1 className="navbar-logo">
-          React
-          <i className="fab fa-react"></i>
-        </h1>
-        <div className="menu-icon" onClick={this.handleClick}>
-          <i
-            className={this.state.clicked ? "fas fa-times" : "fas fa-bars"}
-          ></i>
-        </div>
-        <ul className={this.state.clicked ? "nav-menu active" : "nav-menu"}>
-          {MenuItems.map((item, index) => {
-            return (
-              <li key={index}>
-                <a className={item.cName} href={item.url}>
-                  {item.title}
-                </a>
-              </li>
-            );
-          })}
-        </ul>
-      </nav>
-    );
-  }
+
+  const closeMenu = () => {
+    setOpen(false);
+  };
+  return (
+    <nav className="navbar">
+      <Link to="/" className="navbar-logo">
+        Logo
+      </Link>
+      <div onClick={handleClick} className="nav-icon">
+        {open ? <FiX /> : <FiMenu />}
+      </div>
+      <ul className={open ? "nav-links active" : "nav-links"}>
+        <li className="nav-item">
+          <Link to="/" className="nav-link" onClick={closeMenu}>
+            Home
+          </Link>
+        </li>
+        <li className="nav-item">
+          <Link to="/map" className="nav-link" onClick={closeMenu}>
+            Map
+          </Link>
+        </li>
+        <li className="nav-item">
+          <Link to="/contact" className="nav-link" onClick={closeMenu}>
+            Contact
+          </Link>
+        </li>
+      </ul>
+    </nav>
+  );
 }
+
+export default Navbar;
