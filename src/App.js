@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 //components
 import Home from "./components/screens/home/Home";
 import Contact from "./components/screens/contact/Contact";
-import Map from "./components/screens/map/Map";
+import MyMap from "./components/screens/map/MyMap";
 import Navbar from "./components/Navbar/Navbar";
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
 
         <Switch>
           <Route path="/" exact component={Home} />
-          <Route path="/map" component={Map} />
+          <Route path="/map" component={MyMap} />
           <Route path="/contact" component={Contact} />
         </Switch>
       </Router>
