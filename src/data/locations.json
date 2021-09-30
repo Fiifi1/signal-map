@@ -1,0 +1,5061 @@
+{
+  "type": "FeatureCollection",
+  "name": "NETWORK_GEOCODE_UNIVERSITY_OF_GHANA_2021",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6402618,
+          -0.1859301
+        ]
+      },
+      "properties": {
+        "id": "0",
+        "mtn": "-104",
+        "vodafone": "-95",
+        "airtel": "-100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6408528,
+          -0.1861235
+        ]
+      },
+      "properties": {
+        "id": "1",
+        "mtn": "-97",
+        "vodafone": "-102",
+        "airtel": "-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6402661,
+          -0.1864374
+        ]
+      },
+      "properties": {
+        "id": "2",
+        "mtn": "-90",
+        "vodafone": "-99",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6402661,
+          -0.1864374
+        ]
+      },
+      "properties": {
+        "id": "3",
+        "mtn": "-67",
+        "vodafone": "-67",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6423153,
+          -0.1853537
+        ]
+      },
+      "properties": {
+        "id": "4",
+        "mtn": "-93",
+        "vodafone": "-91",
+        "airtel": "-96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6479206,
+          -0.1883466
+        ]
+      },
+      "properties": {
+        "id": "5",
+        "mtn": "-77",
+        "vodafone": "-78",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6401732,
+          -0.1864182
+        ]
+      },
+      "properties": {
+        "id": "6",
+        "mtn": "-68",
+        "vodafone": "-76",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6403014,
+          -0.1864416
+        ]
+      },
+      "properties": {
+        "id": "7",
+        "mtn": "-70",
+        "vodafone": "-78",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6403014,
+          -0.1864416
+        ]
+      },
+      "properties": {
+        "id": "8",
+        "mtn": "-74",
+        "vodafone": "-68",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6405204,
+          -0.1864174
+        ]
+      },
+      "properties": {
+        "id": "9",
+        "mtn": "-95",
+        "vodafone": "-90",
+        "airtel": "-100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6423153,
+          -0.1853537
+        ]
+      },
+      "properties": {
+        "id": "10",
+        "mtn": "-100",
+        "vodafone": "-99",
+        "airtel": "-104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6423153,
+          -0.1853537
+        ]
+      },
+      "properties": {
+        "id": "11",
+        "mtn": "-93",
+        "vodafone": "-94",
+        "airtel": "-104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6407812,
+          -0.186048
+        ]
+      },
+      "properties": {
+        "id": "12",
+        "mtn": "-99",
+        "vodafone": "-89",
+        "airtel": "-91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6423153,
+          -0.1853537
+        ]
+      },
+      "properties": {
+        "id": "13",
+        "mtn": "-87",
+        "vodafone": "-88",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6423153,
+          -0.1853537
+        ]
+      },
+      "properties": {
+        "id": "14",
+        "mtn": "-94",
+        "vodafone": "-86",
+        "airtel": "-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.658376931147099,
+          -0.18131686144652623
+        ]
+      },
+      "properties": {
+        "id": "15",
+        "mtn": "-98",
+        "vodafone": "-98",
+        "airtel": "-104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.658375874027197,
+          -0.1813994261764562
+        ]
+      },
+      "properties": {
+        "id": "16",
+        "mtn": "-43",
+        "vodafone": "-38",
+        "airtel": "-41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.643868711782288,
+          -0.1860772445799653
+        ]
+      },
+      "properties": {
+        "id": "17",
+        "mtn": "-57",
+        "vodafone": "-63",
+        "airtel": "-57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.643870332145924,
+          -0.18656917831398026
+        ]
+      },
+      "properties": {
+        "id": "18",
+        "mtn": "-56",
+        "vodafone": "-68",
+        "airtel": "-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6443116681544385,
+          -0.18670299361572418
+        ]
+      },
+      "properties": {
+        "id": "19",
+        "mtn": "-62",
+        "vodafone": "-66",
+        "airtel": "-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.644781506616128,
+          -0.18593326277443314
+        ]
+      },
+      "properties": {
+        "id": "20",
+        "mtn": "-62",
+        "vodafone": "-61",
+        "airtel": "-57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.644846145666627,
+          -0.1864258286411758
+        ]
+      },
+      "properties": {
+        "id": "21",
+        "mtn": "-51",
+        "vodafone": "-57",
+        "airtel": "-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.645163447981384,
+          -0.1857969116296489
+        ]
+      },
+      "properties": {
+        "id": "22",
+        "mtn": "-56",
+        "vodafone": "-58",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.645107931269003,
+          -0.185726952195542
+        ]
+      },
+      "properties": {
+        "id": "23",
+        "mtn": "-55",
+        "vodafone": "-71",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64590595187067,
+          -0.18571151792262372
+        ]
+      },
+      "properties": {
+        "id": "24",
+        "mtn": "-54",
+        "vodafone": "-69",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.646317999488702,
+          -0.18583402618954328
+        ]
+      },
+      "properties": {
+        "id": "25",
+        "mtn": "-51",
+        "vodafone": "-66",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.646714280707881,
+          -0.18582021904536059
+        ]
+      },
+      "properties": {
+        "id": "26",
+        "mtn": "-52",
+        "vodafone": "-70",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.646968077505395,
+          -0.18521294112051456
+        ]
+      },
+      "properties": {
+        "id": "27",
+        "mtn": "-48",
+        "vodafone": "-71",
+        "airtel": "-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6466534000839586,
+          -0.1850871323700868
+        ]
+      },
+      "properties": {
+        "id": "28",
+        "mtn": "-58",
+        "vodafone": "-80",
+        "airtel": "-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.645793126488142,
+          -0.18513399372221293
+        ]
+      },
+      "properties": {
+        "id": "29",
+        "mtn": "-62",
+        "vodafone": "-74",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.645940809293365,
+          -0.18523179927295988
+        ]
+      },
+      "properties": {
+        "id": "30",
+        "mtn": "-59",
+        "vodafone": "-73",
+        "airtel": "-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6443373409190025,
+          -0.18531940871924782
+        ]
+      },
+      "properties": {
+        "id": "31",
+        "mtn": "-52",
+        "vodafone": "-76",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64359560076267,
+          -0.18571777989157023
+        ]
+      },
+      "properties": {
+        "id": "32",
+        "mtn": "-57",
+        "vodafone": "-75",
+        "airtel": "-73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6409014,
+          -0.1861362
+        ]
+      },
+      "properties": {
+        "id": "33",
+        "mtn": "-89",
+        "vodafone": "-92",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6409014,
+          -0.1861362
+        ]
+      },
+      "properties": {
+        "id": "34",
+        "mtn": "-90",
+        "vodafone": "-75",
+        "airtel": "-91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64033,
+          -0.1864598
+        ]
+      },
+      "properties": {
+        "id": "35",
+        "mtn": "-76",
+        "vodafone": "-74",
+        "airtel": "-83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64033,
+          -0.1864598
+        ]
+      },
+      "properties": {
+        "id": "36",
+        "mtn": "-69",
+        "vodafone": "-70",
+        "airtel": "-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6401168,
+          -0.1863779
+        ]
+      },
+      "properties": {
+        "id": "37",
+        "mtn": "-80",
+        "vodafone": "-77",
+        "airtel": "-85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6401168,
+          -0.1863779
+        ]
+      },
+      "properties": {
+        "id": "38",
+        "mtn": "-69",
+        "vodafone": "-74",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6402096,
+          -0.1864376
+        ]
+      },
+      "properties": {
+        "id": "39",
+        "mtn": "-78",
+        "vodafone": "-79",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6401404,
+          -0.18616
+        ]
+      },
+      "properties": {
+        "id": "40",
+        "mtn": "-95",
+        "vodafone": "-98",
+        "airtel": "-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6407255,
+          -0.1860742
+        ]
+      },
+      "properties": {
+        "id": "41",
+        "mtn": "-92",
+        "vodafone": "-90",
+        "airtel": "-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6400965,
+          -0.1858971
+        ]
+      },
+      "properties": {
+        "id": "42",
+        "mtn": "-88",
+        "vodafone": "-88",
+        "airtel": "-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6400965,
+          -0.1858971
+        ]
+      },
+      "properties": {
+        "id": "43",
+        "mtn": "-90",
+        "vodafone": "-89",
+        "airtel": "-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "44",
+        "mtn": "-84",
+        "vodafone": "-90",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6401196,
+          -0.1859454
+        ]
+      },
+      "properties": {
+        "id": "45",
+        "mtn": "-84",
+        "vodafone": "-90",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "46",
+        "mtn": "-84",
+        "vodafone": "-51",
+        "airtel": "-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6361963,
+          -0.1881027
+        ]
+      },
+      "properties": {
+        "id": "47",
+        "mtn": "-70",
+        "vodafone": "-34",
+        "airtel": "-56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636514361654181,
+          -0.18801257273922592
+        ]
+      },
+      "properties": {
+        "id": "48",
+        "mtn": "-81",
+        "vodafone": "-68",
+        "airtel": "-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636350873186641,
+          -0.1879960110038202
+        ]
+      },
+      "properties": {
+        "id": "49",
+        "mtn": "-81",
+        "vodafone": "-68",
+        "airtel": "-49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636393521123958,
+          -0.18715656483387513
+        ]
+      },
+      "properties": {
+        "id": "50",
+        "mtn": "-81",
+        "vodafone": "-73",
+        "airtel": "-55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636607130112313,
+          -0.18669272672413925
+        ]
+      },
+      "properties": {
+        "id": "51",
+        "mtn": "-98",
+        "vodafone": "-86",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636356307801415,
+          -0.18660000983132707
+        ]
+      },
+      "properties": {
+        "id": "52",
+        "mtn": "-99",
+        "vodafone": "-85",
+        "airtel": "-78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635852898062102,
+          -0.18645370243793633
+        ]
+      },
+      "properties": {
+        "id": "53",
+        "mtn": "-96",
+        "vodafone": "-69",
+        "airtel": "-78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6358924725476305,
+          -0.18696571187566383
+        ]
+      },
+      "properties": {
+        "id": "54",
+        "mtn": "-26",
+        "vodafone": "-78",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635936370253183,
+          -0.1866362468042152
+        ]
+      },
+      "properties": {
+        "id": "55",
+        "mtn": "-91",
+        "vodafone": "-83",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635767981510828,
+          -0.18688782514678703
+        ]
+      },
+      "properties": {
+        "id": "56",
+        "mtn": "-98",
+        "vodafone": "-87",
+        "airtel": "-73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636480774087122,
+          -0.18698366870137645
+        ]
+      },
+      "properties": {
+        "id": "57",
+        "mtn": "-100",
+        "vodafone": "-91",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636075346490477,
+          -0.1866812887515802
+        ]
+      },
+      "properties": {
+        "id": "58",
+        "mtn": "-81",
+        "vodafone": "-79",
+        "airtel": "-63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637679891941763,
+          -0.18600936517531938
+        ]
+      },
+      "properties": {
+        "id": "59",
+        "mtn": "-83",
+        "vodafone": "-85",
+        "airtel": "-63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637467933761324,
+          -0.18579511952396932
+        ]
+      },
+      "properties": {
+        "id": "60",
+        "mtn": "-77",
+        "vodafone": "-70",
+        "airtel": "-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "61",
+        "mtn": "-87",
+        "vodafone": "-103",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "62",
+        "mtn": "-98",
+        "vodafone": "-100",
+        "airtel": "-58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "63",
+        "mtn": "-99",
+        "vodafone": "-100",
+        "airtel": "-54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "64",
+        "mtn": "-98",
+        "vodafone": "-100",
+        "airtel": "-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "65",
+        "mtn": "-102",
+        "vodafone": "-102",
+        "airtel": "-60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "66",
+        "mtn": "-86",
+        "vodafone": "-102",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "67",
+        "mtn": "-99",
+        "vodafone": "-104",
+        "airtel": "-56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "68",
+        "mtn": "-101",
+        "vodafone": "-104",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "69",
+        "mtn": "-99",
+        "vodafone": "-106",
+        "airtel": "-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "70",
+        "mtn": "-98",
+        "vodafone": "-104",
+        "airtel": "-53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "96",
+        "mtn": "-103",
+        "vodafone": "-99",
+        "airtel": "-56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "72",
+        "mtn": "-95",
+        "vodafone": "-102",
+        "airtel": "-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6633252,
+          -0.17995
+        ]
+      },
+      "properties": {
+        "id": "73",
+        "mtn": "-95",
+        "vodafone": "-103",
+        "airtel": "-61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6634988651988865,
+          -0.1798967853659349
+        ]
+      },
+      "properties": {
+        "id": "74",
+        "mtn": "-91",
+        "vodafone": "-83",
+        "airtel": "-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.657754621867807,
+          -0.18090286318053841
+        ]
+      },
+      "properties": {
+        "id": "75",
+        "mtn": "-97",
+        "vodafone": "-96",
+        "airtel": "-99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6629265347769655,
+          -0.18000129247096786
+        ]
+      },
+      "properties": {
+        "id": "76",
+        "mtn": "-44",
+        "vodafone": "-51",
+        "airtel": "-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662909955058343,
+          -0.17977825235202277
+        ]
+      },
+      "properties": {
+        "id": "77",
+        "mtn": "-82",
+        "vodafone": "-96",
+        "airtel": "-83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662790760641198,
+          -0.18001566803983599
+        ]
+      },
+      "properties": {
+        "id": "78",
+        "mtn": "-90",
+        "vodafone": "-89",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662485918497946,
+          -0.17982889912497926
+        ]
+      },
+      "properties": {
+        "id": "79",
+        "mtn": "-89",
+        "vodafone": "-101",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.657531777038119,
+          -0.18086378913475493
+        ]
+      },
+      "properties": {
+        "id": "80",
+        "mtn": "-94",
+        "vodafone": "-39",
+        "airtel": "-20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662828285603334,
+          -0.1799992639078316
+        ]
+      },
+      "properties": {
+        "id": "81",
+        "mtn": "-89",
+        "vodafone": "-100",
+        "airtel": "-84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662814616915708,
+          -0.18100276136314997
+        ]
+      },
+      "properties": {
+        "id": "82",
+        "mtn": "-84",
+        "vodafone": "-93",
+        "airtel": "-83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662899828811545,
+          -0.18066061111450551
+        ]
+      },
+      "properties": {
+        "id": "83",
+        "mtn": "-85",
+        "vodafone": "-70",
+        "airtel": "-79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662784134352445,
+          -0.1818173853152836
+        ]
+      },
+      "properties": {
+        "id": "84",
+        "mtn": "-80",
+        "vodafone": "-72",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662775986367934,
+          -0.18184050247079564
+        ]
+      },
+      "properties": {
+        "id": "85",
+        "mtn": "-72",
+        "vodafone": "-79",
+        "airtel": "-45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662791427748929,
+          -0.18170318440942873
+        ]
+      },
+      "properties": {
+        "id": "86",
+        "mtn": "-93",
+        "vodafone": "-77",
+        "airtel": "-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662782611555395,
+          -0.18184044106498118
+        ]
+      },
+      "properties": {
+        "id": "87",
+        "mtn": "-91",
+        "vodafone": "-83",
+        "airtel": "-60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63552838952498,
+          -0.18773636363266172
+        ]
+      },
+      "properties": {
+        "id": "88",
+        "mtn": "-86",
+        "vodafone": "-85",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635424458403956,
+          -0.18817372298095011
+        ]
+      },
+      "properties": {
+        "id": "89",
+        "mtn": "-89",
+        "vodafone": "-81",
+        "airtel": "-57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635424458403956,
+          -0.18817372298095011
+        ]
+      },
+      "properties": {
+        "id": "90",
+        "mtn": "-104",
+        "vodafone": "-92",
+        "airtel": "-74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.657825203932542,
+          -0.18126860305382367
+        ]
+      },
+      "properties": {
+        "id": "91",
+        "mtn": "-24",
+        "vodafone": "-32",
+        "airtel": "-34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.657333819392298,
+          -0.18116850079572355
+        ]
+      },
+      "properties": {
+        "id": "92",
+        "mtn": "-43",
+        "vodafone": "-43",
+        "airtel": "-46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.657053116445198,
+          -0.18105050212421553
+        ]
+      },
+      "properties": {
+        "id": "93",
+        "mtn": "-45",
+        "vodafone": "-37",
+        "airtel": "-42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.657272469722721,
+          -0.18157492881225848
+        ]
+      },
+      "properties": {
+        "id": "94",
+        "mtn": "-27",
+        "vodafone": "-34",
+        "airtel": "-34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635291899050461,
+          -0.18802434489452222
+        ]
+      },
+      "properties": {
+        "id": "95",
+        "mtn": "-80",
+        "vodafone": "-60",
+        "airtel": "-82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6472207,
+          -0.1877857
+        ]
+      },
+      "properties": {
+        "id": "96",
+        "mtn": "-64",
+        "vodafone": "-81",
+        "airtel": "-82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6350265,
+          -0.1886048
+        ]
+      },
+      "properties": {
+        "id": "97",
+        "mtn": "-63",
+        "vodafone": "-84",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6441304,
+          -0.187007
+        ]
+      },
+      "properties": {
+        "id": "98",
+        "mtn": "-51",
+        "vodafone": "-59",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6456617,
+          -0.1868221
+        ]
+      },
+      "properties": {
+        "id": "99",
+        "mtn": "-90",
+        "vodafone": "-68",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6460128,
+          -0.1871375
+        ]
+      },
+      "properties": {
+        "id": "100",
+        "mtn": "-52",
+        "vodafone": "-56",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6441304,
+          -0.187007
+        ]
+      },
+      "properties": {
+        "id": "101",
+        "mtn": "-67",
+        "vodafone": "-70",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6455249,
+          -0.1866302
+        ]
+      },
+      "properties": {
+        "id": "102",
+        "mtn": "-62",
+        "vodafone": "-81",
+        "airtel": "-91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6447832,
+          -0.1868572
+        ]
+      },
+      "properties": {
+        "id": "103",
+        "mtn": "-62",
+        "vodafone": "-72",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6459944,
+          -0.1863294
+        ]
+      },
+      "properties": {
+        "id": "104",
+        "mtn": "-89",
+        "vodafone": "-82",
+        "airtel": "-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6459629,
+          -0.1863385
+        ]
+      },
+      "properties": {
+        "id": "105",
+        "mtn": "-54",
+        "vodafone": "-60",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6460609,
+          -0.1871892
+        ]
+      },
+      "properties": {
+        "id": "106",
+        "mtn": "-53",
+        "vodafone": "-56",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6458624,
+          -0.1877359
+        ]
+      },
+      "properties": {
+        "id": "107",
+        "mtn": "-64",
+        "vodafone": "-86",
+        "airtel": "-91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6449111,
+          -0.1868928
+        ]
+      },
+      "properties": {
+        "id": "108",
+        "mtn": "-77",
+        "vodafone": "-65",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6468717,
+          -0.1876258
+        ]
+      },
+      "properties": {
+        "id": "109",
+        "mtn": "-68",
+        "vodafone": "-58",
+        "airtel": "-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6468876,
+          -0.188228
+        ]
+      },
+      "properties": {
+        "id": "110",
+        "mtn": "-72",
+        "vodafone": "-65",
+        "airtel": "-78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6350265,
+          -0.1886048
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "mtn": "-78",
+        "vodafone": "-65",
+        "airtel": "-97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6471142,
+          -0.1886677
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "mtn": "-59",
+        "vodafone": "-70",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6470864,
+          -0.18713
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "mtn": "-65",
+        "vodafone": "-73",
+        "airtel": "-78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6472805,
+          -0.1859316
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "mtn": "-52",
+        "vodafone": "-68",
+        "airtel": "-62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6473517,
+          -0.1859379
+        ]
+      },
+      "properties": {
+        "id": "115",
+        "mtn": "-52",
+        "vodafone": "-53",
+        "airtel": "-63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6467668,
+          -0.18614264
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "mtn": "-50",
+        "vodafone": "-58",
+        "airtel": "-54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6462435,
+          -0.1865573
+        ]
+      },
+      "properties": {
+        "id": "117",
+        "mtn": "-64",
+        "vodafone": "-70",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650540552798147,
+          -0.18475612313272635
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "mtn": "-76",
+        "vodafone": "-66",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6505337501911255,
+          -0.18757493509687717
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "mtn": "-69",
+        "vodafone": "-55",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649326703044268,
+          -0.18492869523799638
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "mtn": "-78",
+        "vodafone": "-68",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650660345794665,
+          -0.18836281004901176
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "mtn": "-65",
+        "vodafone": "-67",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649474913737255,
+          -0.18574042217183012
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "mtn": "-88",
+        "vodafone": "-77",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6510379065087,
+          -0.18905139314415223
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "mtn": "-61",
+        "vodafone": "-66",
+        "airtel": "-58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649685229186574,
+          -0.18617984184026695
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "mtn": "-80",
+        "vodafone": "-85",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6510379065087,
+          -0.18905139314415223
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "mtn": "-70",
+        "vodafone": "-66",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649456887120347,
+          -0.1859789455690933
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "mtn": "-84",
+        "vodafone": "-77",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65117952512762,
+          -0.1889411665301705
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "mtn": "-82",
+        "vodafone": "-86",
+        "airtel": "-78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649736305681525,
+          -0.18608125943257742
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "mtn": "-79",
+        "vodafone": "-72",
+        "airtel": "-61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651300217457908,
+          -0.18973663889432704
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "mtn": "-71",
+        "vodafone": "-89",
+        "airtel": "-67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.648850383739952,
+          -0.1860716433093744
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "mtn": "-100",
+        "vodafone": "-91",
+        "airtel": "-92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651135852436402,
+          -0.18974527141993663
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "mtn": "-80",
+        "vodafone": "-86",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.648870464362093,
+          -0.1851627235898381
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "mtn": "-93",
+        "vodafone": "-95",
+        "airtel": "-100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651135852436402,
+          -0.18974527141993663
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "mtn": "-74",
+        "vodafone": "-91",
+        "airtel": "-79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6488715247249575,
+          -0.1851324668200929
+        ]
+      },
+      "properties": {
+        "id": "134",
+        "mtn": "-82",
+        "vodafone": "-68",
+        "airtel": "-92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649140270173301,
+          -0.18538531610823844
+        ]
+      },
+      "properties": {
+        "id": "135",
+        "mtn": "-85",
+        "vodafone": "-85",
+        "airtel": "-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649413139572098,
+          -0.18494264901917912
+        ]
+      },
+      "properties": {
+        "id": "136",
+        "mtn": "-90",
+        "vodafone": "-85",
+        "airtel": "-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649373265496792,
+          -0.18519562715436114
+        ]
+      },
+      "properties": {
+        "id": "137",
+        "mtn": "-88",
+        "vodafone": "-85",
+        "airtel": "-95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649630013825229,
+          -0.18624685085646991
+        ]
+      },
+      "properties": {
+        "id": "138",
+        "mtn": "-51",
+        "vodafone": "-57",
+        "airtel": "-67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650102635882354,
+          -0.18658873888581645
+        ]
+      },
+      "properties": {
+        "id": "139",
+        "mtn": "-80",
+        "vodafone": "-91",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649534549514637,
+          -0.1862390647712922
+        ]
+      },
+      "properties": {
+        "id": "140",
+        "mtn": "-92",
+        "vodafone": "-88",
+        "airtel": "-100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650505609298392,
+          -0.18622726071725743
+        ]
+      },
+      "properties": {
+        "id": "141",
+        "mtn": "-84",
+        "vodafone": "-89",
+        "airtel": "-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650196645321673,
+          -0.18619583622213792
+        ]
+      },
+      "properties": {
+        "id": "142",
+        "mtn": "-86",
+        "vodafone": "-85",
+        "airtel": "-83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650113923732254,
+          -0.186227372305603
+        ]
+      },
+      "properties": {
+        "id": "143",
+        "mtn": "-80",
+        "vodafone": "-81",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651260839854751,
+          -0.18976922959824472
+        ]
+      },
+      "properties": {
+        "id": "144",
+        "mtn": "-66",
+        "vodafone": "-80",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650365928901406,
+          -0.1859889564077221
+        ]
+      },
+      "properties": {
+        "id": "145",
+        "mtn": "-81",
+        "vodafone": "-53",
+        "airtel": "-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650836631006826,
+          -0.18977727485682702
+        ]
+      },
+      "properties": {
+        "id": "146",
+        "mtn": "-67",
+        "vodafone": "-84",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65055764714821,
+          -0.1899312155502582
+        ]
+      },
+      "properties": {
+        "id": "147",
+        "mtn": "-73",
+        "vodafone": "-48",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6505596578585715,
+          -0.18630943115509066
+        ]
+      },
+      "properties": {
+        "id": "148",
+        "mtn": "-65",
+        "vodafone": "-79",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650345726182297,
+          -0.1866561126322672
+        ]
+      },
+      "properties": {
+        "id": "149",
+        "mtn": "-70",
+        "vodafone": "-51",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649554023957275,
+          -0.1863826751911267
+        ]
+      },
+      "properties": {
+        "id": "150",
+        "mtn": "-53",
+        "vodafone": "-52",
+        "airtel": "-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64893070409774,
+          -0.1863615341566315
+        ]
+      },
+      "properties": {
+        "id": "151",
+        "mtn": "-56",
+        "vodafone": "-55",
+        "airtel": "-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650670967805758,
+          -0.19009001975076287
+        ]
+      },
+      "properties": {
+        "id": "152",
+        "mtn": "-71",
+        "vodafone": "-78",
+        "airtel": "-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.648377253679231,
+          -0.18619576469081098
+        ]
+      },
+      "properties": {
+        "id": "153",
+        "mtn": "-51",
+        "vodafone": "-59",
+        "airtel": "-52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650604206249721,
+          -0.18982712496781984
+        ]
+      },
+      "properties": {
+        "id": "154",
+        "mtn": "-79",
+        "vodafone": "-85",
+        "airtel": "-74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64798971889821,
+          -0.1860453866624901
+        ]
+      },
+      "properties": {
+        "id": "155",
+        "mtn": "-65",
+        "vodafone": "-85",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647865484275935,
+          -0.18517507445373205
+        ]
+      },
+      "properties": {
+        "id": "156",
+        "mtn": "-78",
+        "vodafone": "-78",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649929491894081,
+          -0.1858076795443315
+        ]
+      },
+      "properties": {
+        "id": "157",
+        "mtn": "-101",
+        "vodafone": "-73",
+        "airtel": "-95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649929520020504,
+          -0.18580689943122697
+        ]
+      },
+      "properties": {
+        "id": "158",
+        "mtn": "-99",
+        "vodafone": "-56",
+        "airtel": "-99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647472024560816,
+          -0.1882582875332132
+        ]
+      },
+      "properties": {
+        "id": "159",
+        "mtn": "-98",
+        "vodafone": "-89",
+        "airtel": "-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647383039434126,
+          -0.18831535513004316
+        ]
+      },
+      "properties": {
+        "id": "160",
+        "mtn": "-92",
+        "vodafone": "-78",
+        "airtel": "-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647625913719278,
+          -0.1883002944920716
+        ]
+      },
+      "properties": {
+        "id": "161",
+        "mtn": "-88",
+        "vodafone": "-66",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6476713791639925,
+          -0.1883147554781422
+        ]
+      },
+      "properties": {
+        "id": "162",
+        "mtn": "-85",
+        "vodafone": "-70",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64738208542943,
+          -0.18831527267913345
+        ]
+      },
+      "properties": {
+        "id": "163",
+        "mtn": "-93",
+        "vodafone": "-62",
+        "airtel": "-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647326761808789,
+          -0.18831217426693506
+        ]
+      },
+      "properties": {
+        "id": "164",
+        "mtn": "-92",
+        "vodafone": "-74",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6472638166200495,
+          -0.18828846606769967
+        ]
+      },
+      "properties": {
+        "id": "166",
+        "mtn": "-95",
+        "vodafone": "-75",
+        "airtel": "-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647213720215722,
+          -0.18828645398152757
+        ]
+      },
+      "properties": {
+        "id": "167",
+        "mtn": "-88",
+        "vodafone": "-53",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647306332623885,
+          -0.18830764982605996
+        ]
+      },
+      "properties": {
+        "id": "168",
+        "mtn": "-92",
+        "vodafone": "-78",
+        "airtel": "-79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647559231633915,
+          -0.18830809001654486
+        ]
+      },
+      "properties": {
+        "id": "169",
+        "mtn": "-81",
+        "vodafone": "-67",
+        "airtel": "-82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647612158040494,
+          -0.18831080217612464
+        ]
+      },
+      "properties": {
+        "id": "170",
+        "mtn": "-87",
+        "vodafone": "-76",
+        "airtel": "-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6472633453317815,
+          -0.18828839445593107
+        ]
+      },
+      "properties": {
+        "id": "171",
+        "mtn": "-82",
+        "vodafone": "-77",
+        "airtel": "-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647613180969587,
+          -0.18831087108989117
+        ]
+      },
+      "properties": {
+        "id": "172",
+        "mtn": "-78",
+        "vodafone": "-57",
+        "airtel": "-78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647329894109717,
+          -0.18831194883884975
+        ]
+      },
+      "properties": {
+        "id": "173",
+        "mtn": "-84",
+        "vodafone": "-79",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647418281054547,
+          -0.18831456470599983
+        ]
+      },
+      "properties": {
+        "id": "174",
+        "mtn": "-83",
+        "vodafone": "-83",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647657662816418,
+          -0.18831365690192964
+        ]
+      },
+      "properties": {
+        "id": "175",
+        "mtn": "-77",
+        "vodafone": "-63",
+        "airtel": "-82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647568472537936,
+          -0.18830799736688722
+        ]
+      },
+      "properties": {
+        "id": "176",
+        "mtn": "-85",
+        "vodafone": "-64",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.654777267549122,
+          -0.18855695565750835
+        ]
+      },
+      "properties": {
+        "id": "177",
+        "mtn": "-67",
+        "vodafone": "-63",
+        "airtel": "-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.654782414748458,
+          -0.18855707665544638
+        ]
+      },
+      "properties": {
+        "id": "178",
+        "mtn": "-62",
+        "vodafone": "-55",
+        "airtel": "-67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647641816873129,
+          -0.1883143170151791
+        ]
+      },
+      "properties": {
+        "id": "179",
+        "mtn": "-65",
+        "vodafone": "-18",
+        "airtel": "-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6476719999892655,
+          -0.18831412020590432
+        ]
+      },
+      "properties": {
+        "id": "180",
+        "mtn": "-68",
+        "vodafone": "-59",
+        "airtel": "-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647206124557967,
+          -0.18828471472778943
+        ]
+      },
+      "properties": {
+        "id": "181",
+        "mtn": "-68",
+        "vodafone": "-60",
+        "airtel": "-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647339534616449,
+          -0.18831507853129112
+        ]
+      },
+      "properties": {
+        "id": "182",
+        "mtn": "-65",
+        "vodafone": "-64",
+        "airtel": "-65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6473239272269105,
+          -0.18831153628366568
+        ]
+      },
+      "properties": {
+        "id": "183",
+        "mtn": "-73",
+        "vodafone": "-72",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647779245767313,
+          -0.1886500978513677
+        ]
+      },
+      "properties": {
+        "id": "184",
+        "mtn": "-75",
+        "vodafone": "-81",
+        "airtel": "-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64761356042361,
+          -0.1883109104883814
+        ]
+      },
+      "properties": {
+        "id": "185",
+        "mtn": "-72",
+        "vodafone": "-81",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647751401406409,
+          -0.18861557616783187
+        ]
+      },
+      "properties": {
+        "id": "186",
+        "mtn": "-66",
+        "vodafone": "-78",
+        "airtel": "-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647234846515719,
+          -0.18828656390228998
+        ]
+      },
+      "properties": {
+        "id": "187",
+        "mtn": "-66",
+        "vodafone": "-84",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64751278061651,
+          -0.18853468967423162
+        ]
+      },
+      "properties": {
+        "id": "188",
+        "mtn": "-68",
+        "vodafone": "-78",
+        "airtel": "-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6474566692539,
+          -0.18854814581590568
+        ]
+      },
+      "properties": {
+        "id": "189",
+        "mtn": "-60",
+        "vodafone": "-78",
+        "airtel": "-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647258529672264,
+          -0.18856373584293978
+        ]
+      },
+      "properties": {
+        "id": "190",
+        "mtn": "-59",
+        "vodafone": "-72",
+        "airtel": "-57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6474566692539,
+          -0.18854814581590568
+        ]
+      },
+      "properties": {
+        "id": "191",
+        "mtn": "-64",
+        "vodafone": "-69",
+        "airtel": "-56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.647150277568238,
+          -0.18836569635679726
+        ]
+      },
+      "properties": {
+        "id": "192",
+        "mtn": "-64",
+        "vodafone": "-73",
+        "airtel": "-56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6474566692539,
+          -0.18854814581590568
+        ]
+      },
+      "properties": {
+        "id": "193",
+        "mtn": "-56",
+        "vodafone": "-75",
+        "airtel": "-53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.646530643599577,
+          -0.18844119145122457
+        ]
+      },
+      "properties": {
+        "id": "194",
+        "mtn": "-49",
+        "vodafone": "-77",
+        "airtel": "-58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6474566692539,
+          -0.18854814581590568
+        ]
+      },
+      "properties": {
+        "id": "195",
+        "mtn": "-69",
+        "vodafone": "-24",
+        "airtel": "-61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.638162771840432,
+          -0.18670046944771154
+        ]
+      },
+      "properties": {
+        "id": "196",
+        "mtn": "-74",
+        "vodafone": "-68",
+        "airtel": "-60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.638802999820951,
+          -0.18558107028695317
+        ]
+      },
+      "properties": {
+        "id": "197",
+        "mtn": "-76",
+        "vodafone": "-68",
+        "airtel": "-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637311980960895,
+          -0.18653777947351446
+        ]
+      },
+      "properties": {
+        "id": "198",
+        "mtn": "-80",
+        "vodafone": "-75",
+        "airtel": "-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637311980960895,
+          -0.18653777947351446
+        ]
+      },
+      "properties": {
+        "id": "199",
+        "mtn": "-63",
+        "vodafone": "-69",
+        "airtel": "-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637359600303618,
+          -0.18659255328369342
+        ]
+      },
+      "properties": {
+        "id": "200",
+        "mtn": "-77",
+        "vodafone": "-81",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636704548555958,
+          -0.1869372478704113
+        ]
+      },
+      "properties": {
+        "id": "201",
+        "mtn": "-73",
+        "vodafone": "-67",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63628779400856,
+          -0.18801829992911787
+        ]
+      },
+      "properties": {
+        "id": "202",
+        "mtn": "-77",
+        "vodafone": "-74",
+        "airtel": "-64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635720745687025,
+          -0.1877887975541326
+        ]
+      },
+      "properties": {
+        "id": "203",
+        "mtn": "-28",
+        "vodafone": "-61",
+        "airtel": "-74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637372513392279,
+          -0.18509952128199034
+        ]
+      },
+      "properties": {
+        "id": "204",
+        "mtn": "-88",
+        "vodafone": "-73",
+        "airtel": "-109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637245328553565,
+          -0.18502224523509553
+        ]
+      },
+      "properties": {
+        "id": "205",
+        "mtn": "-89",
+        "vodafone": "-70",
+        "airtel": "-97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637167817948643,
+          -0.1850152794605019
+        ]
+      },
+      "properties": {
+        "id": "206",
+        "mtn": "-94",
+        "vodafone": "-85",
+        "airtel": "-113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637099917086237,
+          -0.18495849824648264
+        ]
+      },
+      "properties": {
+        "id": "207",
+        "mtn": "-92",
+        "vodafone": "-74",
+        "airtel": "-113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637223830748968,
+          -0.18505663097432004
+        ]
+      },
+      "properties": {
+        "id": "208",
+        "mtn": "-88",
+        "vodafone": "-87",
+        "airtel": "-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6372238350556,
+          -0.18505663305288123
+        ]
+      },
+      "properties": {
+        "id": "209",
+        "mtn": "-85",
+        "vodafone": "-88",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637145158615806,
+          -0.18495830216927542
+        ]
+      },
+      "properties": {
+        "id": "210",
+        "mtn": "-81",
+        "vodafone": "-74",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637078155361858,
+          -0.18464850955511872
+        ]
+      },
+      "properties": {
+        "id": "211",
+        "mtn": "-78",
+        "vodafone": "-77",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637070967806086,
+          -0.184799518613164
+        ]
+      },
+      "properties": {
+        "id": "212",
+        "mtn": "-76",
+        "vodafone": "-68",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637050526565598,
+          -0.18467722591494867
+        ]
+      },
+      "properties": {
+        "id": "213",
+        "mtn": "-77",
+        "vodafone": "-87",
+        "airtel": "-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637059838519942,
+          -0.18468202200709377
+        ]
+      },
+      "properties": {
+        "id": "214",
+        "mtn": "-77",
+        "vodafone": "-83",
+        "airtel": "-84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637124957794387,
+          -0.18466286441490343
+        ]
+      },
+      "properties": {
+        "id": "215",
+        "mtn": "-75",
+        "vodafone": "-89",
+        "airtel": "-85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636997028056804,
+          -0.1846739565943119
+        ]
+      },
+      "properties": {
+        "id": "216",
+        "mtn": "-75",
+        "vodafone": "-79",
+        "airtel": "-83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63709957266305,
+          -0.18470055538072344
+        ]
+      },
+      "properties": {
+        "id": "217",
+        "mtn": "-79",
+        "vodafone": "-90",
+        "airtel": "-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63709957266305,
+          -0.18470055538072344
+        ]
+      },
+      "properties": {
+        "id": "218",
+        "mtn": "-78",
+        "vodafone": "-90",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6370958584862745,
+          -0.18448281869568908
+        ]
+      },
+      "properties": {
+        "id": "219",
+        "mtn": "-82",
+        "vodafone": "-81",
+        "airtel": "-83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637451126308773,
+          -0.18455720412449705
+        ]
+      },
+      "properties": {
+        "id": "220",
+        "mtn": "-77",
+        "vodafone": "-77",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63754141710635,
+          -0.18460915952873497
+        ]
+      },
+      "properties": {
+        "id": "221",
+        "mtn": "-89",
+        "vodafone": "-88",
+        "airtel": "-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637777854362367,
+          -0.18468316580602986
+        ]
+      },
+      "properties": {
+        "id": "222",
+        "mtn": "-83",
+        "vodafone": "-88",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6380487644403265,
+          -0.18474063261978213
+        ]
+      },
+      "properties": {
+        "id": "223",
+        "mtn": "-89",
+        "vodafone": "-81",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637964690234837,
+          -0.184914219663616
+        ]
+      },
+      "properties": {
+        "id": "224",
+        "mtn": "-87",
+        "vodafone": "-82",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.638020536500096,
+          -0.18495392415267375
+        ]
+      },
+      "properties": {
+        "id": "225",
+        "mtn": "-82",
+        "vodafone": "-84",
+        "airtel": "-88"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637376753965426,
+          -0.18509478964685883
+        ]
+      },
+      "properties": {
+        "id": "226",
+        "mtn": "-97",
+        "vodafone": "-93",
+        "airtel": "-107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637504145992129,
+          -0.1848975774522755
+        ]
+      },
+      "properties": {
+        "id": "227",
+        "mtn": "-95",
+        "vodafone": "-85",
+        "airtel": "-113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637757965282201,
+          -0.18480056234948605
+        ]
+      },
+      "properties": {
+        "id": "228",
+        "mtn": "-82",
+        "vodafone": "-73",
+        "airtel": "-91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637295177775383,
+          -0.18508535979232293
+        ]
+      },
+      "properties": {
+        "id": "229",
+        "mtn": "-74",
+        "vodafone": "-80",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63755295780303,
+          -0.18532770771688245
+        ]
+      },
+      "properties": {
+        "id": "230",
+        "mtn": "-71",
+        "vodafone": "-68",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637756243541129,
+          -0.18539515513163246
+        ]
+      },
+      "properties": {
+        "id": "231",
+        "mtn": "-73",
+        "vodafone": "-73",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6376477606393545,
+          -0.18543044144256296
+        ]
+      },
+      "properties": {
+        "id": "232",
+        "mtn": "-88",
+        "vodafone": "-83",
+        "airtel": "-93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636869700942339,
+          -0.18522452221506827
+        ]
+      },
+      "properties": {
+        "id": "233",
+        "mtn": "-89",
+        "vodafone": "-71",
+        "airtel": "-89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6367253628912275,
+          -0.18562292301800698
+        ]
+      },
+      "properties": {
+        "id": "234",
+        "mtn": "-87",
+        "vodafone": "-74",
+        "airtel": "-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636818858355755,
+          -0.1854240570649082
+        ]
+      },
+      "properties": {
+        "id": "235",
+        "mtn": "-91",
+        "vodafone": "-76",
+        "airtel": "-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6367892313558405,
+          -0.18545470248975404
+        ]
+      },
+      "properties": {
+        "id": "236",
+        "mtn": "-90",
+        "vodafone": "-78",
+        "airtel": "-90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636828023301743,
+          -0.1853566471106893
+        ]
+      },
+      "properties": {
+        "id": "237",
+        "mtn": "-83",
+        "vodafone": "-77",
+        "airtel": "-87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636613487760674,
+          -0.18518113714933657
+        ]
+      },
+      "properties": {
+        "id": "238",
+        "mtn": "-84",
+        "vodafone": "-81",
+        "airtel": "-92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636414291035717,
+          -0.18539372467030293
+        ]
+      },
+      "properties": {
+        "id": "239",
+        "mtn": "-81",
+        "vodafone": "-64",
+        "airtel": "-32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63654696147209,
+          -0.18555898254927594
+        ]
+      },
+      "properties": {
+        "id": "240",
+        "mtn": "-67",
+        "vodafone": "-65",
+        "airtel": "-91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63633012871442,
+          -0.18558720470045256
+        ]
+      },
+      "properties": {
+        "id": "241",
+        "mtn": "-84",
+        "vodafone": "-84",
+        "airtel": "-97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6362191410468565,
+          -0.1858010123702138
+        ]
+      },
+      "properties": {
+        "id": "242",
+        "mtn": "-79",
+        "vodafone": "-75",
+        "airtel": "-88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636417206438443,
+          -0.1859678368878907
+        ]
+      },
+      "properties": {
+        "id": "243",
+        "mtn": "-85",
+        "vodafone": "-87",
+        "airtel": "-95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636430170289842,
+          -0.18658241828319846
+        ]
+      },
+      "properties": {
+        "id": "244",
+        "mtn": "-89",
+        "vodafone": "-91",
+        "airtel": "-95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636365013951114,
+          -0.18674413273622323
+        ]
+      },
+      "properties": {
+        "id": "245",
+        "mtn": "-81",
+        "vodafone": "-91",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636448517238367,
+          -0.18655163520657195
+        ]
+      },
+      "properties": {
+        "id": "246",
+        "mtn": "-66",
+        "vodafone": "-85",
+        "airtel": "-86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636496799714155,
+          -0.18628788603957167
+        ]
+      },
+      "properties": {
+        "id": "247",
+        "mtn": "-83",
+        "vodafone": "-97",
+        "airtel": "-91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636740412333519,
+          -0.1862614026384697
+        ]
+      },
+      "properties": {
+        "id": "248",
+        "mtn": "-91",
+        "vodafone": "-96",
+        "airtel": "-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636750284158202,
+          -0.1862495847120272
+        ]
+      },
+      "properties": {
+        "id": "249",
+        "mtn": "-91",
+        "vodafone": "-97",
+        "airtel": "-94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636797898789574,
+          -0.186261161603365
+        ]
+      },
+      "properties": {
+        "id": "250",
+        "mtn": "-86",
+        "vodafone": "-93",
+        "airtel": "-85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6373389407156935,
+          -0.1861182451359934
+        ]
+      },
+      "properties": {
+        "id": "251",
+        "mtn": "-80",
+        "vodafone": "-80",
+        "airtel": "-82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637286153851938,
+          -0.18593355765268552
+        ]
+      },
+      "properties": {
+        "id": "252",
+        "mtn": "-78",
+        "vodafone": "-84",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637474732266348,
+          -0.18607448774896543
+        ]
+      },
+      "properties": {
+        "id": "253",
+        "mtn": "-70",
+        "vodafone": "-86",
+        "airtel": "-78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637455280336248,
+          -0.18597835119425635
+        ]
+      },
+      "properties": {
+        "id": "254",
+        "mtn": "-79",
+        "vodafone": "-86",
+        "airtel": "-74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637673083946068,
+          -0.18569404243380633
+        ]
+      },
+      "properties": {
+        "id": "255",
+        "mtn": "-81",
+        "vodafone": "-84",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637246789512418,
+          -0.18544216898900245
+        ]
+      },
+      "properties": {
+        "id": "256",
+        "mtn": "-97",
+        "vodafone": "-82",
+        "airtel": "-99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6372150455262,
+          -0.18550106643057881
+        ]
+      },
+      "properties": {
+        "id": "257",
+        "mtn": "-90",
+        "vodafone": "-77",
+        "airtel": "-113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637211892444679,
+          -0.18540192073957235
+        ]
+      },
+      "properties": {
+        "id": "258",
+        "mtn": "-92",
+        "vodafone": "-80",
+        "airtel": "-95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650106566650053,
+          -0.19046356186389335
+        ]
+      },
+      "properties": {
+        "id": "259",
+        "mtn": "-66",
+        "vodafone": "-66",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.649817640657806,
+          -0.1909364208996203
+        ]
+      },
+      "properties": {
+        "id": "260",
+        "mtn": "-62",
+        "vodafone": "-69",
+        "airtel": "-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650161363602846,
+          -0.19044784497507133
+        ]
+      },
+      "properties": {
+        "id": "261",
+        "mtn": "-69",
+        "vodafone": "-59",
+        "airtel": "-67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650191206408199,
+          -0.19005269629734006
+        ]
+      },
+      "properties": {
+        "id": "262",
+        "mtn": "-70",
+        "vodafone": "-66",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650395098944148,
+          -0.19026816765073035
+        ]
+      },
+      "properties": {
+        "id": "263",
+        "mtn": "-68",
+        "vodafone": "-57",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65046768999051,
+          -0.1896103973981367
+        ]
+      },
+      "properties": {
+        "id": "264",
+        "mtn": "-71",
+        "vodafone": "-56",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650203510839641,
+          -0.19103473829176054
+        ]
+      },
+      "properties": {
+        "id": "265",
+        "mtn": "-69",
+        "vodafone": "-56",
+        "airtel": "-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.656894295391538,
+          -0.18163216400248627
+        ]
+      },
+      "properties": {
+        "id": "266",
+        "mtn": "-71",
+        "vodafone": "-78",
+        "airtel": "-68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650381377441726,
+          -0.19068361147464305
+        ]
+      },
+      "properties": {
+        "id": "267",
+        "mtn": "-71",
+        "vodafone": "-74",
+        "airtel": "-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650892197253454,
+          -0.1911879326584927
+        ]
+      },
+      "properties": {
+        "id": "272",
+        "mtn": "-74",
+        "vodafone": "-57",
+        "airtel": "-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650754384993734,
+          -0.19067694557305234
+        ]
+      },
+      "properties": {
+        "id": "269",
+        "mtn": "-80",
+        "vodafone": "-79",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650753136784352,
+          -0.1909792692430529
+        ]
+      },
+      "properties": {
+        "id": "270",
+        "mtn": "-76",
+        "vodafone": "-83",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65064708937215,
+          -0.19101046323907106
+        ]
+      },
+      "properties": {
+        "id": "271",
+        "mtn": "-70",
+        "vodafone": "-63",
+        "airtel": "-84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650704936526344,
+          -0.19154420501983985
+        ]
+      },
+      "properties": {
+        "id": "272",
+        "mtn": "-74",
+        "vodafone": "-63",
+        "airtel": "-85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650806942365377,
+          -0.19146660436221064
+        ]
+      },
+      "properties": {
+        "id": "273",
+        "mtn": "-73",
+        "vodafone": "-55",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650806942365377,
+          -0.19146660436221064
+        ]
+      },
+      "properties": {
+        "id": "274",
+        "mtn": "-70",
+        "vodafone": "-18",
+        "airtel": "-74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650837371297194,
+          -0.1904118749946551
+        ]
+      },
+      "properties": {
+        "id": "275",
+        "mtn": "-68",
+        "vodafone": "-59",
+        "airtel": "-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650916990651231,
+          -0.1903971757086804
+        ]
+      },
+      "properties": {
+        "id": "276",
+        "mtn": "-74",
+        "vodafone": "-84",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650707036748371,
+          -0.19133689054935954
+        ]
+      },
+      "properties": {
+        "id": "277",
+        "mtn": "-75",
+        "vodafone": "-93",
+        "airtel": "-84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650673370761062,
+          -0.19152766962949028
+        ]
+      },
+      "properties": {
+        "id": "278",
+        "mtn": "-75",
+        "vodafone": "-85",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65070213334272,
+          -0.19129627964502813
+        ]
+      },
+      "properties": {
+        "id": "279",
+        "mtn": "-75",
+        "vodafone": "-73",
+        "airtel": "-83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650581931532683,
+          -0.1912155608017232
+        ]
+      },
+      "properties": {
+        "id": "280",
+        "mtn": "-76",
+        "vodafone": "-80",
+        "airtel": "-77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650661585374875,
+          -0.1914006168320177
+        ]
+      },
+      "properties": {
+        "id": "281",
+        "mtn": "-84",
+        "vodafone": "-68",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65067682879548,
+          -0.1914665551866914
+        ]
+      },
+      "properties": {
+        "id": "282",
+        "mtn": "-79",
+        "vodafone": "-73",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650121675066685,
+          -0.18888422113267042
+        ]
+      },
+      "properties": {
+        "id": "283",
+        "mtn": "-77",
+        "vodafone": "-72",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65065457445842,
+          -0.19129554880181704
+        ]
+      },
+      "properties": {
+        "id": "284",
+        "mtn": "-78",
+        "vodafone": "-86",
+        "airtel": "-82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65065457445842,
+          -0.19129554880181704
+        ]
+      },
+      "properties": {
+        "id": "285",
+        "mtn": "-83",
+        "vodafone": "-91",
+        "airtel": "-84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650663277753756,
+          -0.19132563980403183
+        ]
+      },
+      "properties": {
+        "id": "286",
+        "mtn": "-76",
+        "vodafone": "-88",
+        "airtel": "-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650656130395957,
+          -0.19135241822849686
+        ]
+      },
+      "properties": {
+        "id": "287",
+        "mtn": "-82",
+        "vodafone": "-87",
+        "airtel": "-81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65057628042716,
+          -0.18959309004247824
+        ]
+      },
+      "properties": {
+        "id": "288",
+        "mtn": "-66",
+        "vodafone": "-72",
+        "airtel": "-25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650652311587656,
+          -0.18973858273514818
+        ]
+      },
+      "properties": {
+        "id": "289",
+        "mtn": "-66",
+        "vodafone": "-72",
+        "airtel": "-73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650621575059142,
+          -0.189684187778983
+        ]
+      },
+      "properties": {
+        "id": "290",
+        "mtn": "-65",
+        "vodafone": "-70",
+        "airtel": "-76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650644967956283,
+          -0.18964312459484814
+        ]
+      },
+      "properties": {
+        "id": "291",
+        "mtn": "-66",
+        "vodafone": "-74",
+        "airtel": "-74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650674704558304,
+          -0.1896733169423796
+        ]
+      },
+      "properties": {
+        "id": "292",
+        "mtn": "-64",
+        "vodafone": "-72",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6506101272522455,
+          -0.1895763732604564
+        ]
+      },
+      "properties": {
+        "id": "293",
+        "mtn": "-69",
+        "vodafone": "-72",
+        "airtel": "-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650317265186041,
+          -0.18724945570312312
+        ]
+      },
+      "properties": {
+        "id": "294",
+        "mtn": "-68",
+        "vodafone": "-66",
+        "airtel": "-73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650572466520159,
+          -0.1896354838479499
+        ]
+      },
+      "properties": {
+        "id": "295",
+        "mtn": "-68",
+        "vodafone": "-70",
+        "airtel": "-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650595669059338,
+          -0.1896235653283581
+        ]
+      },
+      "properties": {
+        "id": "296",
+        "mtn": "-68",
+        "vodafone": "-69",
+        "airtel": "-69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6506893359843895,
+          -0.18960232721521098
+        ]
+      },
+      "properties": {
+        "id": "297",
+        "mtn": "-57",
+        "vodafone": "-77",
+        "airtel": "-67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65059811941852,
+          -0.18928358476055018
+        ]
+      },
+      "properties": {
+        "id": "298",
+        "mtn": "-67",
+        "vodafone": "-77",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650601065488625,
+          -0.18953342304652973
+        ]
+      },
+      "properties": {
+        "id": "299",
+        "mtn": "-61",
+        "vodafone": "-19",
+        "airtel": "-67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650610591698702,
+          -0.18952674121094615
+        ]
+      },
+      "properties": {
+        "id": "300",
+        "mtn": "-64",
+        "vodafone": "-63",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650590171946724,
+          -0.1896193416821221
+        ]
+      },
+      "properties": {
+        "id": "301",
+        "mtn": "-67",
+        "vodafone": "-68",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6510385283751425,
+          -0.18907806336585037
+        ]
+      },
+      "properties": {
+        "id": "302",
+        "mtn": "-61",
+        "vodafone": "-71",
+        "airtel": "-72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650877201533436,
+          -0.1891447211487355
+        ]
+      },
+      "properties": {
+        "id": "303",
+        "mtn": "-67",
+        "vodafone": "-63",
+        "airtel": "-74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651066265212755,
+          -0.18902683242232454
+        ]
+      },
+      "properties": {
+        "id": "304",
+        "mtn": "-68",
+        "vodafone": "-67",
+        "airtel": "-75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650890900713815,
+          -0.18918904505090386
+        ]
+      },
+      "properties": {
+        "id": "305",
+        "mtn": "-61",
+        "vodafone": "-66",
+        "airtel": "-70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6515206922827455,
+          -0.18869028686705597
+        ]
+      },
+      "properties": {
+        "id": "306",
+        "mtn": "-58",
+        "vodafone": "-62",
+        "airtel": "-71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6515206922827455,
+          -0.18869028686705597
+        ]
+      },
+      "properties": {
+        "id": "307",
+        "mtn": "-59",
+        "vodafone": "-64",
+        "airtel": "-55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651549250528835,
+          -0.18887571053853597
+        ]
+      },
+      "properties": {
+        "id": "308",
+        "mtn": "-58",
+        "vodafone": "-53",
+        "airtel": "-59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651670641422925,
+          -0.18892503516382486
+        ]
+      },
+      "properties": {
+        "id": "309",
+        "mtn": "-59",
+        "vodafone": "-53",
+        "airtel": "-56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651312091501436,
+          -0.18914974812581087
+        ]
+      },
+      "properties": {
+        "id": "310",
+        "mtn": "-49",
+        "vodafone": "-63",
+        "airtel": "-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651634560636056,
+          -0.1892451061181297
+        ]
+      },
+      "properties": {
+        "id": "311",
+        "mtn": "-47",
+        "vodafone": "-53",
+        "airtel": "-55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651973463494106,
+          -0.18926608138304493
+        ]
+      },
+      "properties": {
+        "id": "312",
+        "mtn": "-50",
+        "vodafone": "-51",
+        "airtel": "-56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651807948963524,
+          -0.18898194072720156
+        ]
+      },
+      "properties": {
+        "id": "313",
+        "mtn": "-55",
+        "vodafone": "-58",
+        "airtel": "-47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65177448554722,
+          -0.18933932757720953
+        ]
+      },
+      "properties": {
+        "id": "314",
+        "mtn": "-56",
+        "vodafone": "-52",
+        "airtel": "-50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651820897606515,
+          -0.18918840896058017
+        ]
+      },
+      "properties": {
+        "id": "315",
+        "mtn": "-62",
+        "vodafone": "-53",
+        "airtel": "-61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.651989688225921,
+          -0.18948517553112842
+        ]
+      },
+      "properties": {
+        "id": "316",
+        "mtn": "-53",
+        "vodafone": "-56",
+        "airtel": "-63"
+      }
+    }
+  ]
+}
