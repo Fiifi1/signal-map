@@ -6,19 +6,21 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./components/screens/home/Home";
 import Contact from "./components/screens/contact/Contact";
 import MyMap from "./components/screens/map/MyMap";
-import Navbar from "./components/Navbar/Navbar";
+import Header from "./components/header/header";
+import Footer from "./components/footer/footer";
 
 function App() {
   return (
     <div className="app">
       <Router>
-        <Navbar />
+        <Header />
 
         <Switch>
           <Route path="/" exact component={Home} />
           <Route path="/map" component={MyMap} />
           <Route path="/contact" component={Contact} />
-        </Switch>
+        </Switch>        
+        <Footer />
       </Router>
     </div>
   );
