@@ -4,9 +4,10 @@ export const Box = styled.div`
   padding: 80px 60px;
   background: #1b212c;
   position: fixed;
+  height: 80px;
+
   bottom: 0;
   width: 100%;
-  height:40px;
 
   @media (max-width: 1000px) {
     padding: 70px 30px;
@@ -24,7 +25,7 @@ export const Container = styled.div`
 export const Column = styled.div`
   display: flex;
   flex-direction: column;
-  text-align: left;
+  text-align: right;
   margin-left: 60px;
 `;
 
